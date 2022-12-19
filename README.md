@@ -8,11 +8,12 @@
 
 ### 三、相关技术
 前端: 
-+ Vue 3 + TypeScript
-+ Vite
-+ Vue-Router
-组件库:
-NutUI
+1. Vue 3 + TypeScript
+2. Vite
+3. Vue-Router
+
+组件库: NutUI
+
 后端: 待做
 
 ### 四、项目启动
