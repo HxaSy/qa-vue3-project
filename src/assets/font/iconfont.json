@@ -1,0 +1,58 @@
+{
+  "id": "3827084",
+  "name": "QA1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3401331",
+      "name": "错误",
+      "font_class": "cuowu",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "7797608",
+      "name": "成功",
+      "font_class": "chenggong",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "17967627",
+      "name": "概率",
+      "font_class": "gaishuai",
+      "unicode": "eea4",
+      "unicode_decimal": 61092
+    },
+    {
+      "icon_id": "650764",
+      "name": "规范－多选－选中",
+      "font_class": "guifanduoxuanxuanzhong",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "982365",
+      "name": "多选-未选",
+      "font_class": "duoxuanweixuan",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "19109118",
+      "name": "单选框",
+      "font_class": "danxuankuang",
+      "unicode": "e782",
+      "unicode_decimal": 59266
+    },
+    {
+      "icon_id": "19109292",
+      "name": "单选框-选中",
+      "font_class": "danxuankuang-xuanzhong",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, .8);
+  padding: 15px 20px;
+  border-radius: 10px;
+}
+
+.text-algin-center {
+  text-align: center;
+}
+
+.margin-bottom-8 {
+  margin-bottom: 8px !important;
+}
+
+.margin-bottom-5 {
+  margin-bottom: 5px !important;
+}
+
+.margin-top-12 {
+  margin-top: 12px !important;
+}
